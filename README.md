@@ -26,4 +26,7 @@ radioboo, sakai.atsushi@gmail.com
 
 ## License
 
-DroidSans is available under the MIT license. See the LICENSE file for more info.
+This Library is available under the MIT license. See the LICENSE file for more info.
+
+[Steve Matteson](https://profiles.google.com/107777320916704234605) owns the copyright to the [DroidSans font](https://www.google.com/fonts/specimen/Droid+Sans) and it is licensed under [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html).
+
