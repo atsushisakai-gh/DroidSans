@@ -1,0 +1,6 @@
+framework module DroidSans {
+  umbrella header "Pods-DroidSans_Tests-DroidSans-umbrella.h"
+
+  export *
+  module * { export * }
+}

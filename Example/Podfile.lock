@@ -1,0 +1,14 @@
+PODS:
+  - DroidSans (0.1.0)
+
+DEPENDENCIES:
+  - DroidSans (from `../`)
+
+EXTERNAL SOURCES:
+  DroidSans:
+    :path: ../
+
+SPEC CHECKSUMS:
+  DroidSans: 049f40dfb85ba837fe3163a3db741de74ea251b5
+
+COCOAPODS: 0.37.2
