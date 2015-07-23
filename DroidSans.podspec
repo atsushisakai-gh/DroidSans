@@ -25,9 +25,7 @@ Pod::Spec.new do |s|
   s.requires_arc = true
 
   s.source_files = 'Pod/Classes/**/*'
-  s.resource_bundles = {
-    'DroidSans' => ['Pod/Assets/*.ttf']
-  }
+  s.resource_bundle = { 'DroidSans' => 'Pod/Assets/*.ttf' }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
